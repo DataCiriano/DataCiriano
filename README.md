@@ -4,7 +4,7 @@
 - 👀 I'm a Spanish data enthusiast currently living in Chile.
 - 🌱 I always strive to be in continuous learning, so here you'll find various projects that I'm working on as a self-taught learner.
 - ✨ Explore, learn, and feel free to contribute or comment. I hope you find these projects useful and inspiring on your own journey.
-- 📫 ou can find me here, or if you prefer, you can contact me directly at mciriano90@gmail.com.
+- 📫 You can find me here, or if you prefer, you can contact me directly at mciriano90@gmail.com.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
